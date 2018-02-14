@@ -2271,8 +2271,8 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</source>
-        <translation>האזן לחיבורי JSON-RPC ב- &lt;port&gt; (ברירת מחדל: 9332 או רשת בדיקה: 19332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 18236 or testnet: 118236)</source>
+        <translation>האזן לחיבורי JSON-RPC ב- &lt;port&gt; (ברירת מחדל: 18236 או רשת בדיקה: 118236)</translation>
     </message>
     <message>
         <location line="+37"/>
